@@ -1,0 +1,8 @@
+C:\Users\yaros\source\repos\Studentalib\Studentalib\bin\Debug\netstandard2.0\Studentalib.deps.json
+C:\Users\yaros\source\repos\Studentalib\Studentalib\bin\Debug\netstandard2.0\Studentalib.dll
+C:\Users\yaros\source\repos\Studentalib\Studentalib\bin\Debug\netstandard2.0\Studentalib.pdb
+C:\Users\yaros\source\repos\Studentalib\Studentalib\obj\Debug\netstandard2.0\Studentalib.csprojAssemblyReference.cache
+C:\Users\yaros\source\repos\Studentalib\Studentalib\obj\Debug\netstandard2.0\Studentalib.AssemblyInfoInputs.cache
+C:\Users\yaros\source\repos\Studentalib\Studentalib\obj\Debug\netstandard2.0\Studentalib.AssemblyInfo.cs
+C:\Users\yaros\source\repos\Studentalib\Studentalib\obj\Debug\netstandard2.0\Studentalib.dll
+C:\Users\yaros\source\repos\Studentalib\Studentalib\obj\Debug\netstandard2.0\Studentalib.pdb
